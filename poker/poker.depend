@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1472518982 source:c:\users\austin\documents\poker\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<algorithm>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<vector>
+	<numeric>
+	<stdio.h>
+
